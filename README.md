@@ -1,2 +1,2 @@
 # Chaetsheets
-It contains all tye of cheatsheets
+It contains all types of cheatsheets
